@@ -27,6 +27,7 @@
 
 # Known Issues
 
+- Client ping reporting is slow.
 - Some Melee maps are not supported:
   > Load map detail failed
   > map: read map info: bytes does not match tag `"TRIGSTR_"`)

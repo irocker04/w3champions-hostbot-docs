@@ -1,5 +1,19 @@
 # Change Log
 
+## [0.0.3] - 2020-09-04
+
+### Changed
+
+- Adjusted game step from 50ms to 20ms (Default LAN value is 100ms).
+
+### Added
+
+- You can play against the computer now.
+
+### Fixed
+
+- Fixed not being able to start the game when there are more than two players.
+
 ## [0.0.2] - 2020-09-01
 
 ### Added
