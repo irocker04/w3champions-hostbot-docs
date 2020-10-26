@@ -34,3 +34,4 @@
 - Not all error messages are displayed on the WebUI. Sometimes you have to check the terminal window for error messages.
 - Lagging screen is not yet implemented.
 - Desync detection is not yet implemented.
+- Switching to referee team will remove a player slot
