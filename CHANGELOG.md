@@ -1,5 +1,15 @@
 # Change Log
 
+## [0.4.0] - 2020-11-09
+
+### Added
+
+- Added Windows UI
+
+### Fixed
+
+- Fixed known issues
+
 ## [0.0.3] - 2020-09-04
 
 ### Changed

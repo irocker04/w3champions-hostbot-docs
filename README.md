@@ -3,7 +3,7 @@
 ## How to use
 
 - Download the client
-- Run `flo.exe`
+- Run `flo-windows.exe`
 - Goto https://w3flo.com
 - Create Game & Invite players
 - Click `Start Game`
@@ -27,11 +27,4 @@
 
 # Known Issues
 
-- Client ping reporting is slow.
-- Some Melee maps are not supported:
-  > Load map detail failed
-  > map: read map info: bytes does not match tag `"TRIGSTR_"`)
-- Not all error messages are displayed on the WebUI. Sometimes you have to check the terminal window for error messages.
-- Lagging screen is not yet implemented.
 - Desync detection is not yet implemented.
-- Switching to referee team will remove a player slot
